@@ -85,3 +85,40 @@ All raw NHANES `.XPT` files were processed into analysis-ready datasets.
 
 ## 📂 Repository Structure
 
+- nhanes-capstone-report
+- 
+  ├─ README.md 
+  
+  └─ Capstone_Capstone1_Report.pdf
+
+  ---
+  
+---
+
+## 💡 Contributions & Impact
+- Designed a pipeline for **multi-module NHANES integration**.  
+- Created interpretable **derived features** (ratios, densities, categories).  
+- Generated insights that align with **public health recommendations**.  
+- Provides a **framework for predictive modeling** and health dashboards.  
+
+---
+
+## 🚀 Future Work
+- Develop **machine learning models** (logistic regression, random forest, LightGBM).  
+- Build an **interactive dashboard** (Power BI, Tableau).  
+- Deploy a **Flask app** for live health risk predictions.  
+- Extend findings to **personalized diet recommendation systems**.  
+
+---
+
+## 🙏 Acknowledgments
+- **CDC NHANES** for open-access health data.  
+- Tools: **Python, Pandas, NumPy, scikit-learn, Matplotlib**.  
+- Google Colab for providing the environment.  
+
+---
+
+## 📄 License
+This project is for **educational purposes only**.  
+NHANES data is **public, de-identified, and open**.
+
